@@ -1,0 +1,5 @@
+﻿  lab8.cpp
+c:\users\stud130\source\repos\lab8\lab8\lab8.cpp(14): warning C4101: R: неиспользованная локальная переменная
+c:\users\stud130\source\repos\lab8\lab8\lab8.cpp(25): warning C4101: R: неиспользованная локальная переменная
+c:\users\stud130\source\repos\lab8\lab8\lab8.cpp(37): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab8.vcxproj -> C:\Users\stud130\source\repos\lab8\Debug\lab8.exe
